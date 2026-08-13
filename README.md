@@ -450,4 +450,4 @@ python -m unittest discover -s tests -v
 
 ## 参考说明
 
-本项目在架构思想上参考 TinyTroupe、OASIS 与 CAMEL-AI，但当前实现是 PsyBer-Agent 项目内的独立模块。参考项目的 README、论文或代码不构成本项目输出真实性与临床有效性的保证。
+本项目在架构思想上参考 TinyTroupe、OASIS 与 CAMEL-AI，但当前实现是 WebSim-Agent 项目内的独立模块。参考项目的 README、论文或代码不构成本项目输出真实性与临床有效性的保证。
