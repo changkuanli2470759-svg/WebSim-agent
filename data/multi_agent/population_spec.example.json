@@ -1,0 +1,25 @@
+{
+  "title": "Example targeted recommendation-user population",
+  "cohort_mix": {
+    "student": 0.35,
+    "office_worker": 0.40,
+    "shift_worker": 0.15,
+    "retired": 0.10
+  },
+  "cohort_overrides": {
+    "student": {
+      "curiosity": 0.78,
+      "self_control": 0.52,
+      "media": {
+        "popularity_susceptibility": 0.68,
+        "autoplay_susceptibility": 0.62
+      }
+    },
+    "office_worker": {
+      "baseline_peaks": {
+        "evening": 0.70
+      }
+    }
+  },
+  "notes": "Synthetic example only. Replace weights and assumptions with cited study data for publication."
+}

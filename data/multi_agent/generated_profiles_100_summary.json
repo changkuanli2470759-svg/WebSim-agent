@@ -1,0 +1,22 @@
+{
+  "count": 100,
+  "cohorts": {
+    "shift_worker": 15,
+    "office_worker": 40,
+    "retired": 10,
+    "student": 35
+  },
+  "age_groups": {
+    "18-24": 33,
+    "25-44": 46,
+    "45-59": 11,
+    "60+": 10
+  },
+  "gender": {
+    "female": 45,
+    "male": 55
+  },
+  "mean_self_control": 0.6258,
+  "mean_exploration": 0.573,
+  "method": "cohort_sampling_plan_v1"
+}

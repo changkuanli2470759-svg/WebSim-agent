@@ -1,0 +1,14 @@
+[
+{"item_id":"1","title":"Neon Horizon","categories":["science fiction","action"],"description":"Explorers race across a synthetic planet."},
+{"item_id":"2","title":"The Last Algorithm","categories":["technology","thriller"],"description":"An engineer discovers an algorithm predicting crimes."},
+{"item_id":"3","title":"Paper Moons","categories":["romance","drama"],"description":"Two astronomers reconnect under a rare eclipse."},
+{"item_id":"4","title":"Rhythm Avenue","categories":["musical","comedy"],"description":"Neighbors save their street with a music festival."},
+{"item_id":"5","title":"Circuit Friends","categories":["animation","technology","comedy"],"description":"Tiny robots learn teamwork in a busy laboratory."},
+{"item_id":"6","title":"Silent Passenger","categories":["thriller","mystery"],"description":"A night train carries a passenger nobody remembers."},
+{"item_id":"7","title":"Kitchen Cosmos","categories":["comedy","science fiction"],"description":"A chef accidentally opens a portal in an oven."},
+{"item_id":"8","title":"Wild Current","categories":["action","adventure"],"description":"Rescuers navigate a flooded megacity."},
+{"item_id":"9","title":"Heartstrings","categories":["romance","musical"],"description":"A violinist and composer prepare for a final concert."},
+{"item_id":"10","title":"Cloud Garden","categories":["animation","fantasy"],"description":"A child tends a garden floating above the clouds."},
+{"item_id":"11","title":"Debugging Dad","categories":["technology","comedy"],"description":"A programmer uses automation to survive family chaos."},
+{"item_id":"12","title":"Red Signal","categories":["action","thriller"],"description":"A dispatcher uncovers a citywide conspiracy."}
+]

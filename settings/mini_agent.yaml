@@ -1,0 +1,7 @@
+profile_path: data/mini_agent/user_profile.json
+items_path: data/mini_agent/items.json
+track: 5
+candidate_num: 4
+seed: 42
+output_dir: runs/mini_agent
+decision_threshold: 1.0
