@@ -48,27 +48,23 @@ WebSim-Agent 用人工用户研究推荐系统中的浏览、点击、离开、�
 ## 系统架构
 
 ```text
-Population Specification
-        ↓
-Persona Factory
-        ↓
-Agent State Store (SQLite)
-        ↓
-Global Time-step Scheduler
-        ↓
-Active Agent Batch / Worker Pool
-        ↓
-Environment Observation
-        ↓
-Rule Policy or LLM Policy
-        ↓
-Validated Decision JSON
-        ↓
-Action Executor
-        ↓
-Simulator or WebSim
-        ↓
-Psychology + Episodic Memory + Risk Evidence
+Persona
+  ↓
+Scheduler选择本轮Agent
+  ↓
+Environment提供推荐候选
+  ↓
+规则快速过滤
+  ↓
+规则决策或LLM决策
+  ↓
+JSON与动作校验
+  ↓
+执行click / next_page
+  ↓
+更新心理状态和Memory
+  ↓
+计算跨会话风险
 ```
 
 Agent 生命周期：
