@@ -42,7 +42,6 @@ WebSim-Agent 用人工用户研究推荐系统中的浏览、点击、离开、�
 - 支持本地 simulator 和真实 WebSim/Playwright 环境；
 - 保存 episodic session、纵向 semantic summary 和逐步证据；
 - 区分高投入、观察状态、单会话风险与跨会话问题性使用高风险；
-- 支持 control、personalized、social 推荐条件的配对比较；
 - API 失败、429、超时或非法 JSON 时自动回退规则策略。
 
 ## 系统架构
