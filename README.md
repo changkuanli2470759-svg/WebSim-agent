@@ -35,7 +35,7 @@ WebSim-Agent 用人工用户研究推荐系统中的浏览、点击、离开、�
 
 - 按学生、上班族、夜班人群、退休人群定向生成 Persona；
 - 按群体比例生成覆盖 sampling space 的可复现人口样本；
-- 每个 Agent 独立维护兴趣、人格、自控力、生活规律和媒体习惯；
+- 每个 Agent 独立维护兴趣、Big Five人格、自控力、生活规律和媒体习惯；
 - 基于个人 24 小时活动基线生成一天内多次 session；
 - 使用规则策略或 OpenAI-compatible LLM 决定 `click` / `next_page`；
 - 通过时间步 Scheduler 调度大量 Agent，不为每个 Agent 常驻线程或浏览器；
